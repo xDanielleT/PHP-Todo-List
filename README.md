@@ -14,8 +14,8 @@ This is a to-do list application built with PHP, HTML, and CSS. It uses session 
 
 ## How to Run
 1. Make sure PHP is installed.
-2. In your terminal, navigate to the project folder and run:  
-   ```bash
+2. In your bash terminal, navigate to the project folder and run:  
+   ```
    php -S localhost:8000
 3. Open your browser and go to: `http://localhost:8000`
 
