@@ -9,7 +9,7 @@ This is a to-do list application built with PHP, HTML, and CSS. It uses session 
 - Uses PHP sessions to store tasks temporarily
 
 ## Screenshot
-![Screenshot of PHP To-Do List showing tasks with checkboxes and delete buttons](./PHP.png)
+![Screenshot of PHP To-Do List showing tasks with checkboxes and delete buttons](https://i.imgur.com/w3iH5eo.png)
 
 
 ## How to Run
